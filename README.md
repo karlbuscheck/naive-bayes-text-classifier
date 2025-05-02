@@ -1,6 +1,6 @@
 # A Multi-Class Text Classification Model with Naive Bayes
 
-It's pretty cool, if you stop to think about it, that gmail -- or your email service of choice -- automatically knows whether a message is spam, a promotion, or something important. There are all sorts of folders or classes in which an email could land.
+It's pretty cool, if you stop to think about it, that gmail -- or your email service of choice -- automatically knows whether a message is spam, a promotion, or something important. There are all sorts of folders or *classes* in which an email could land.
 
 Behind that magic is a type of machine learning called multi-class text classification.
 
