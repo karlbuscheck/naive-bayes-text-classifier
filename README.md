@@ -7,7 +7,7 @@ This project tackles a classic NLP task: using multi-class classification to pre
 - Assign class labels using a loop across domain columns
 - Clean and lemmatize the text
 - Vectorize with CountVectorizer and n-grams
-- Train the model using `MultinomialNB`
+- Train the model using MultinomialNB
 - Make predictions and evaluate the results
 
 ## Tools & Libraries Used
